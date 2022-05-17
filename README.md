@@ -1,6 +1,8 @@
-# Unfolded Metaheuristics - Results
+# Manuscript 2476 - Result Datasets & Notebook
 
-This repository contains the resulting datasets of the **A Transfer Learning Hyper-heuristic Approach for Automatic Tailoring of Unfolded Population-based Metaheuristics** presented in *CEC-22*. We also included the main python file to plot the figures thereby presented. 
+This repository contains the resulting datasets of the work entitled **A Transfer Learning Hyper-heuristic Approach for Automatic Tailoring of Unfolded Population-based Metaheuristics** presented in *CEC-22*. We also included the main jupyter file to plot the figures thereby presented. 
+
+Authors: _Jorge M. Cruz-Duarte, Ivan Amaya, José Carlos Ortiz-Bayliss, Nelishia Pillay_
 
 ## Important
 
