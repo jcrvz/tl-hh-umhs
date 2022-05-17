@@ -28,7 +28,7 @@ Then, you have the data result files.
 - **Main notebook**: [paper_transferlearning_exp1.ipynb](./paper_transferlearning_exp1.ipynb)
 - Code for generating weight matrices: [paper_transferlearning_part1.py](./paper_transferlearning_part1.py)
 - Visualization of transfer learning matrices: [data_files/transfer_learning](./data_files/transfer_learning) 
-- Results from the proposed approaches: [data_files/exp_output](./data_files/exp_output)
+- Results from the proposed approaches (_this folder will be available once unzip exp_output files_): [data_files/exp_output](./data_files/exp_output)
 - Raw figures generated from the main notebook: [data_files/exp_figures](./data_files/exp_figures)
 - Experimental configurations used in this work: [exconf](./exconf)
 - Results for basic metaheuristics: [data_files/basic-metaheuristics-data_v2.json](./data_files/basic-metaheuristics-data_v2.json)
