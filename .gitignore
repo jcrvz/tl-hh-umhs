@@ -142,3 +142,4 @@ data_files/raw
 .DS_Store
 !docfiles/
 !exconf/*
+/data_files/exp_output/
